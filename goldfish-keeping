@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Goldfish Keeping Journey - Ching Jie</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            text-align: center;
+        }
+        .container {
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #333;
+        }
+        p {
+            color: #666;
+        }
+        .section {
+            margin-top: 20px;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+            margin-top: 10px;
+        }
+        a {
+            color: #007bff;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>My Goldfish Keeping Journey</h1>
+        <p>Welcome! This page explores my experiences and passion for goldfish keeping.</p>
+        
+        <div class="section">
+            <h2>How It All Started</h2>
+            <p>My interest in fishkeeping started with my father and uncles, who kept fish like Sabah Kaloi and Koi. When I was 7, my father brought me to an aquarium shop and bought me guppies, sparking my first journey into fishkeeping. 
+            At that time, my father believed goldfish required an oxygen pump, so he didn’t allow me to keep them until I was 11, when I got my first small Orandas. 
+            I stopped keeping fish for a while, but at 13, after watching videos from Chinese goldfish keepers and sellers, I was inspired to restart my journey. 
+            Since then, I have been drawn to high-quality goldfish like Thai Orandas, Ryukin, and Ranchu, especially those imported around Chinese New Year.</p>
+        </div>
+        
+        <div class="section">
+            <h2>Types of Goldfish I Keep</h2>
+            <p>My collection includes China and Thai Ranchu, Thai Orandas, and Ryukin.</p>
+        </div>
+        
+        <div class="section">
+            <h2>My Goldfish Setup</h2>
+            <p>I use a black fiber 8-feet tank, which can accommodate about 30-40 goldfish.</p>
+        </div>
+        
+        <div class="section">
+            <h2>Challenges in Goldfish Keeping</h2>
+            <p>The most common issue I face is white dots caused by temperature changes. The most serious disease is dropsy, which is similar to cancer in fish, and I have yet to find a cure.</p>
+        </div>
+        
+        <div class="section">
+            <h2>Tips for Beginners</h2>
+            <p>Avoid small tanks or bowls for goldfish. Square tanks are best, and circular wall tanks should be avoided. A rough guideline is 10 gallons of water per goldfish.</p>
+        </div>
+        
+        <div class="section">
+            <h2>My Goldfish Breeding Experience</h2>
+            <p>After my final school exam in 2018, I attempted hand-spawning goldfish for the first time. Some eggs spoiled, turning white instead of staying transparent. I sought advice from a goldfish group on Facebook and learned new techniques to improve hatch rates. 
+            Additionally, feeding two-month-old goldfish fries was challenging. I had to hatch brine shrimp eggs and filter out the inedible eggshells. I created a DIY brine shrimp hatchery using a water bottle, a plastic tube, and a filtering system to extract the brine shrimp. 
+            Despite the challenges, I found breeding goldfish to be an exciting and rewarding experience.</p>
+        </div>
+        
+        <div class="section">
+            <h2>Gallery</h2>
+            <img src="https://drive.google.com/uc?id=10ClVGRwwxSKXMvXQ94cp_Mjbl40c7AEM" alt="Goldfish Image 1">
+            <img src="https://drive.google.com/uc?id=10OJTQM3UcDcHNehMbda1hNoqnl1ZmHoz" alt="Goldfish Image 2">
+            <img src="https://drive.google.com/uc?id=1V0k5rkukJQYvW0_CrleimV-3REft2aRV" alt="Goldfish Image 3">
+            <img src="https://drive.google.com/uc?id=17OzPlIVCH3E3wzTPQVoSCL-7dPE0j8eY" alt="Goldfish Image 4">
+            <img src="https://drive.google.com/uc?id=15V68-UJBmhKha8rHoIc5Bgo-02tgtmOd" alt="Goldfish Image 5">
+        </div>
+    </div>
+</body>
+</html>
